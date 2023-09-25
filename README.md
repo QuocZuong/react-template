@@ -21,7 +21,7 @@ Follow these steps to start using ReactTemplate:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ReactTemplate.git
+    git clone https://github.com/QuocZuong/react-template
     ```
 
 2. Navigate to the project folder:
