@@ -30,8 +30,14 @@ Follow these steps to start using ReactTemplate:
     cd ReactTemplate
     ```
 
-3. Start the development server:
+3. Run install package:
+
+    ```bash
+    npm i
+    ```
+
+4. Start the development server:
     ```bash
     npm start
     ```
-4. Happy coding! 🚀
+5. Happy coding! 🚀
