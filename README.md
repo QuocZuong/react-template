@@ -27,7 +27,7 @@ Follow these steps to start using ReactTemplate:
 2. Navigate to the project folder:
 
     ```bash
-    cd ReactTemplate
+    cd react-template
     ```
 
 3. Run install package:
